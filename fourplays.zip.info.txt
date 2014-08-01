@@ -1,0 +1,40 @@
+Uploaded at March 24, 2009 5:24 am PDT by Christine P Travers <lostspaces@yahoo.co.uk>
+
+TITLE=Four Plays of Gil Vicente
+CREATOR=Gil Vicente
+EDITOR=Aubrey F. G. Bell
+CREDIT=David Starner,  Júlio Reis and the Online Distributed Proofreading Team at http://www.pgdp.net
+NOTIFY=Christine P Travers <lostspaces@yahoo.co.uk>, David Starner <prosfilaes@gmail.com>, dp-post@pgdp.net  
+FILETYPE=Latin1
+FILETYPE=Unicode
+FILETYPE=html
+LANGUAGE=English
+FILES=four_plays.zip
+SIZE=679092
+CLEARED=OK	20050118124815vicente	Four Plays of Gil Vicente	Gil Vicente	1920:p 1969:r 	
+
+ZIP_TESTS=unzip -t output:
+Archive:  /home/spool/four_plays.zip
+  Length     Date   Time    Name
+ --------    ----   ----    ----
+   459508  03-24-09 13:09   fourplays_asc.txt
+   717924  03-24-09 13:20   fourplays_utf8.html
+   456668  03-24-09 13:09   fourplays_utf8.txt
+        0  03-24-09 13:12   images/
+    47596  08-11-08 22:25   images/image-lii.png
+    91764  08-11-08 21:51   images/image00.png
+ --------                   -------
+  1773460                   6 files
+
+Checking fourplays_utf8.html
+Valid HTML!
+Valid CSS 2.1
+Valid Links!
+Summary: Found  2 text
+                1 HTML
+                2 image
+                1 directory
+Text file fourplays_asc.txt looks like ASCII
+Text file fourplays_utf8.txt looks like UTF-8 with BOM
+Unitame says: 185 characters need to be handled manually.
+
