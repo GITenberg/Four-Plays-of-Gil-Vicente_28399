@@ -1,0 +1,40 @@
+_repo: Four-Plays-of-Gil-Vicente_28399
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vicente, Gil
+    gutenberg_agent_id: '9834'
+    url: http://www.gutenberg.org/2009/agents/9834
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Gil_Vicente
+    - http://en.wikipedia.org/wiki/Gil_Vicente
+  editor:
+    agent_name: Bell, Aubrey F. G. (Aubrey Fitz Gerald)
+    aliases:
+    - Bell, Aubrey Fitz Gerald
+    - Bell, Aubrey F.G.
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '33309'
+    url: http://www.gutenberg.org/2009/agents/33309
+description: ''
+gutenberg_issued: '2009-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28399'
+language:
+- en
+- pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese drama'
+tableOfContents: "AUTO DA ALMA\r\nEXHORTAÇÃO DA GUERRA\r\nFARSA DOS ALMOCREVES\r\n\
+  TRAGICOMEDIA PASTORIL DA SERRA DA ESTRELLA."
+title: Four Plays of Gil Vicente
+url: http://www.gutenberg.org/ebooks/28399
